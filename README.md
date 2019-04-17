@@ -6,6 +6,7 @@
 
 
 注：楼主提交的代码在官方版本中是给javaModelGenerator节点添加属性实现分离的。
+
 ```
 <javaModelGenerator targetPackage="model" targetProject="src/main/java">
 	<property name="enableSubPackages" value="true"/>
